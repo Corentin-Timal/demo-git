@@ -1,3 +1,3 @@
 print("Bonjour je suis jérémerde")
 
-viveLaPicardie="corentin avec un E comme ANACONDA"
+viveLaPicardie="corantin avec un A comme ANACONDA"

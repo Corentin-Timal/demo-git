@@ -7,7 +7,6 @@ C'est une suite définie par Un = Un-1 + Un-2
 def élément_fibo(indice:int=1)->int:
     """
     Fonction qui retourne le terme de la suite de Fibonacci d'indice donné.
-    
     Param: indice: type int, valeur par défaut 1
     Retourne : type int, fibo(n)
     """
@@ -19,9 +18,9 @@ def élément_fibo(indice:int=1)->int:
 
 def fibonacci():
     """
-    Fonction qui calcule et affiche les n premiers membres de la suite de Fibonacci (Un= Un-1 + Un-2)
+    Fonction qui calcule et affiche les n premiers membres 
+    de la suite de Fibonacci (Un= Un-1 + Un-2)
     """
-
     # L'utilisateur doit saisir le nombre d'éléments de la suite de Fibonacci qu'il veut calculer 
     # (minimum 2 éléments: 0 et 1 ; max 30 éléments pour ne pas faire crasher la machine)
     n_éléments = -1
